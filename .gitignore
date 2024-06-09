@@ -1,0 +1,4 @@
+my_data/
+*.zip
+logs/
+__pycache__/
