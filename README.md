@@ -2,7 +2,7 @@
 
 Welcome to the official code repository for the **ECML PKDD 2024 ADS** paper "Symbolic Prompt Tuning Completes the App Promotion Graph". The data can be accessed through [this link](https://www.dropbox.com/scl/fi/bb4eo2yiekwfrecsvsj35/my_data.zip?rlkey=vehg3lj2oabb8yo0h19db1w0l&st=vhfhb6w2&dl=0). Please download it and place it under the main folder.
 
-The paper can be accessed through [this link]([https://www.dropbox.com/scl/fi/bb4eo2yiekwfrecsvsj35/my_data.zip?rlkey=vehg3lj2oabb8yo0h19db1w0l&st=vhfhb6w2&dl=0](https://zyouyang.github.io/assets/publications/SymPrompt.pdf))
+The paper can be accessed through [this link](https://zyouyang.github.io/assets/publications/SymPrompt.pdf)
 
 ## Code Structure
 - `main.py`
